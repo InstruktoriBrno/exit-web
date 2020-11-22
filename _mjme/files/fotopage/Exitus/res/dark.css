@@ -1,0 +1,7 @@
+ /* This is dark.css for ExhibitPlus
+
+Please note that each HTML file calls 2 style sheets. A basestyle.css file (in the res directory) and a second, colour specific style sheet (e.g. light.css) which changes these colours
+
+Since the basestyle.css is actually based on the original dark.css style, no further colour changes are required in this file, so it is empty. This is not the case when other styles are used, but they aren't on this setup, so don't worry about it. Only one line is required here, and that is the line which sets a variable for JAlbum. */
+
+/* <% album.put("BUTTON_SET", "red-21px-darkbackground"); %> */
